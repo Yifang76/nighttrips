@@ -1,0 +1,201 @@
+body {
+    background-color: #0000ff;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.top-section {
+    background-image: url(Images/hero.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.top-section h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.top-section h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 10px
+}
+
+.top-section h3 {
+    text-align: center;
+    color: #fff;
+}
+
+.top-section p {
+    color: #fff;
+}
+.top-section .scroll {
+    font-size: 150%;
+}
+
+.header .menuButton {
+    text-align: right;
+    background-color: #36b5be;
+    color: #fff;
+    padding: 12px;
+    border-radius: 40px;
+    max-width: 300px;
+}
+
+.top-section .header {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+
+.transition-colour {
+    margin-top: -100px;
+    height: 100px;
+    width: 100vw;
+    background: rgb(56, 60, 73);
+    background: linear-gradient(360deg, rgba(56, 60, 73, 1) 0%, rgba(56, 60, 73, 1) 10%, rgba(255, 255, 255, 0) 100%);
+
+}
+
+.section-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 400px;
+
+}
+
+.main-section {
+    background-color: #383C49;
+}
+
+.section-container h1 {
+    font-size: 50px;
+    color: #fff;
+}
+
+.section-container h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 90%;
+}
+
+.section-container h3 {
+    text-align: left;
+    color: #add4e6;
+}
+
+.section-container h4 {
+    text-align: center;
+    color: #fff;
+}
+
+.section-container h5 {
+    text-align: center;
+    color: #fff;
+}
+
+.section-container h6 {
+    text-align: end;
+    color: #fff;
+}
+
+.section-container h7 {
+    text-align: right;
+    color: #fff;
+    font-size: 50px;
+}
+
+.section-container h8 {
+    text-align: right;
+    color: #fff;
+}
+
+
+.section {
+    height: 100px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.inlineMenu {
+    display: flex;
+
+}
+
+.inlineMenu span {
+    color: #fff;
+    margin: 5px
+}
+
+.PN {
+    color: #fff;
+    text-align: center;
+    position: relative;
+}
+
+.PN h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.PN h3 {
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+}
+
+.PN span {
+    text-align: center;
+    background-color: #36b5be;
+    color: #fff;
+    padding: 12px;
+    border-radius: 40px;
+    max-width: 300px;
+    font-family: 'Larsseit';
+}
+
+.PN h4 {
+    text-align: left;
+    position: absolute;
+    border-top: #36b5be 10px solid;
+}
+
+.PN h5 {
+    position: absolute;
+    top: 100;
+
+}
+
+.End h1 {
+    text-align: left;
+    color: #fff;
+}
+
+.End div {
+    text-align: left;
+    color: #fff;
+}
+
+.End h4 {
+    font-size: 12;
+    font-family: 'Calibri';
+    text-align: left;
+}
+
+.End1 span {
+    width: 100%;
+    text-align: right;
+    margin: 421;
+}
+
+.End1 p {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
